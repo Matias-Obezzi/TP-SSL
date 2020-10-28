@@ -10,6 +10,6 @@ Auxiliar | Roxana Leituz
 ## TPs
   
 Este repositorio contiene los 3 trabajos prácticos para la promoción de la materia:  
-- [Autómata como reconocedor](AcM/)
-- [Analisis sintactico descendente recursivo](ASDR/)
-- [Bison y Flex](ByF/)
+- [Autómata finíto como reconocedor y accionador](AFcRyA/)
+- [Análisis sintáctico descendente recursivo](ASDR/)
+- [Flex y Bison](FyB/)

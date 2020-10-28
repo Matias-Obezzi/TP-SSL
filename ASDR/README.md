@@ -6,7 +6,7 @@ El mismo fue realizado con C en el IDE Dev-C++
 Cargo  | Nombre
 ------------- | -------------
 Docente | Oscar Bruno
-Auxiliar | Roxana Leitux
+Auxiliar | Roxana Leituz
 
 ## Información 📚
 

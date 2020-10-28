@@ -5,7 +5,7 @@
 Cargo  | Nombre
 ------------- | -------------
 Docente | Oscar Bruno
-Auxiliar | Roxana Leitux 
+Auxiliar | Roxana Leituz
 
 ## TPs
   

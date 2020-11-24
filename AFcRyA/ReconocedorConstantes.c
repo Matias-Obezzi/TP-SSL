@@ -83,7 +83,7 @@ int tipos(char palabra[]){
 		if(palabra[i]!=' '){
 			if(palabra[i]=='+' || palabra[i]=='-'){
 				if(palabra[i+1]=='0'){
-					return 1;
+					return palabra[i+2] == 'x' || palabra[i+2] == 'X' ? 1 : 2;
 				}else{
 					return 0;
 				}
